@@ -1,4 +1,4 @@
-# Universal-Chetsheet
+# Universal Help Solutions Problems Issues
 General Chetsheet for various problems
 
 ## LibreOffice 7.2, 7.4 ...
